@@ -1,9 +1,11 @@
 <img src="https://c.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif" align="right" height=250px; width=250px;>
 
 <h1>Hi, I'm Manash</h1>
-Username: <code>xplo1t</code> <img src="https://xplo1t-sec-github.s3.ap-south-1.amazonaws.com/xplo1t-ava.gif">
+<div>
+  Username: <code>xplo1t</code> <img src="https://xplo1t-sec-github.s3.ap-south-1.amazonaws.com/xplo1t-ava.gif">
+</div>
 <br>
-Hi, I am currently pursuing Computer Science for my undergraduate degree. I also play CTFs and love consuming infosec blogs/articles/podcasts ✨
+I am currently pursuing Computer Science for my undergraduate degree. I like playing CTFs and love consuming infosec blogs/articles/podcasts ✨
 <br><br>
 Things I like exploring:
 <li>
@@ -43,7 +45,7 @@ Things I like exploring:
 
 
 <!--
-**Manash404/Manash404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xplo1t-sec/xplo1t-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
