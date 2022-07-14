@@ -5,14 +5,14 @@
   Username: <code>xplo1t</code> <img src="https://xplo1t-sec-github.s3.ap-south-1.amazonaws.com/xplo1t-ava.gif">
 </div>
 <br>
-I am currently pursuing Computer Science for my undergraduate degree. I like playing CTFs and love consuming infosec blogs/articles/podcasts ✨
+Currently exploring the vast infosec domain of application security and red teaming. I like playing CTFs and love consuming infosec blogs/articles/podcasts ✨
 <br><br>
-Things I like exploring:
+My interest lies in:
 <li>
-  🕸️ Web Application Security
+  🕸️ Application Security
 </li>
 <li>
-  🪟 Network Pentesting
+  🪟 Red Teaming
 </li>
 <li>
   👨‍💻 Binary Exploitation
