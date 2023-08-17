@@ -34,7 +34,7 @@ My interest lies in:
   <td width="50%">
 
 <br><p align="center">Follow my socials<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/manash-saikia-065146176/)
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/manash-saikia/)
   <br><br>[![Twitter Follow](https://img.shields.io/twitter/follow/manash036?style=social)](https://twitter.com/manash036)
 </p>
   </td>
